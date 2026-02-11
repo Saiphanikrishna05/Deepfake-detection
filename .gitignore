@@ -1,0 +1,5 @@
+drive/
+*.mp4
+*.zip
+models/
+__pycache__/
